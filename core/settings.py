@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'apps.articles',
     'apps.needs',
     'apps.partners',
+    'apps.notifications',
     # libs
     "rest_framework",
     "corsheaders",
